@@ -370,8 +370,7 @@ public class DirectoryComparator {
         }
 
         // 检查是否只有版本参数
-        if (directories.isEmpty() && (args.length == 0 ||
-                (args.length == 1 && (args[0].equals("-v") || args[0].equals("--version"))))) {
+        if ((args.length == 1 && (args[0].equals("-v") || args[0].equals("--version")))) {
             showVersion();
             return;
         }
