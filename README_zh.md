@@ -1,6 +1,6 @@
 # DirectoryComparator - 目录比较工具
 
-[English Version](README_en.md) | 中文版
+[English Version](README.md) | 中文版
 
 一个用于比较两个目录文件差异的Java工具。
 
