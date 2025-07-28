@@ -1,5 +1,3 @@
-## README.md (中文版)
-
 # DirectoryComparator - 目录比较工具
 
 [English Version](README_en.md) | 中文版
