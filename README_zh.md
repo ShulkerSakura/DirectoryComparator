@@ -53,7 +53,7 @@ java -jar DirectoryComparator.jar <Directory1> <Directory2> > change.log
 ## 输出示例
 
 ```
-目录比较结果 (版本: 1.2.0):
+目录比较结果 (版本: 1.0.0):
 目录1: /path/to/dir1
 目录2: /path/to/dir2
 ============================================================
