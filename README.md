@@ -53,18 +53,18 @@ Redirect the comparison results to `change.log` file for convenient viewing and 
 ## Output Example
 
 ```
-Directory Comparison Results (Version: 1.2.0):
-Directory 1: /path/to/dir1
-Directory 2: /path/to/dir2
+目录比较结果 (版本: 1.0.0):
+目录1: /path/to/dir1
+目录2: /path/to/dir2
 ============================================================
-[Modified] src/Main.java
-[Added] src/Utils.java
-[Deleted] config.txt
-[Same] README.md
+[修改] src/Main.java
+[新增] src/Utils.java
+[删除] config.txt
+[相同] README.md
 ============================================================
-Statistics:
-Added files: 1
-Deleted files: 1
-Modified files: 1
-Same files: 1
+统计结果:
+新增文件: 1
+删除文件: 1
+修改文件: 1
+相同文件: 1
 ```
